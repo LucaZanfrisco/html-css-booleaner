@@ -2,6 +2,10 @@ body{
     margin: 0;
 }
 
+.border{
+    margin: 8px;
+}
+
 /* immagine e colore di background header */
 header{
     background-image: url(../img/pattern.png);
@@ -16,11 +20,6 @@ header{
     padding: 10px;
 }
 /* Fine dimensione logo */
-
-
-article{
-    margin: 8px;
-}
 
 /* Font e margini titolo */
 #titolo{
@@ -41,12 +40,18 @@ span{
 }
 /* Fine margini foto tim */
 
+/* ridimensionamento foto tim */
+.photo-tim{
+    width: 48%;
+    height: 500px;
+}
+/* fine ridimensionamento foto tim */
+
 /* Rimozione margini tabella */
 table{
     border-collapse: collapse;
 }
 /* fine rimozione margini tabella */
-
 
 thead{
     background-color: #20a9e5;
@@ -63,3 +68,25 @@ thead{
     background-color: #b1e5f2;
 }
 /* fine colore sfondo delle caselle dispari */
+
+/* dimensioni dei div con sfondo */
+.dimensioni{
+    width: 400px;
+    height: 300px;
+    margin-bottom: 5px;
+}
+/* fine dimensione dei div con sfondo */
+
+
+h4{
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* immagine di sfondo */
+#monitor{
+    background-image: url(../img/monitor.jpg);
+}
+#graph{
+    background-image: url(../img/graph.jpg);    
+}
+/* fine immagine di sfondo */
