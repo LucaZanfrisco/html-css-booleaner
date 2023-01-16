@@ -1,0 +1,63 @@
+body{
+    width: 70%;
+    margin: 0 auto;
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+}
+
+.border{
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px 0px;
+    margin: 10px 0px;
+}
+
+header{
+    padding: 20px;
+    text-align: center;
+}
+
+#logo{
+    height: 100px;
+}
+
+#titolo{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.photo-tim{
+    width: 48%;
+    height: 300px;
+    margin-top: 30px;
+}
+
+thead{
+    background-color:#20a9e5;
+}
+.table-len{
+    width: 25%;
+}
+.table-even{
+    background-color: #b1e5f2;
+}
+
+h4{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dimensioni{
+    width: 45%;
+    height: 300px;
+    display: inline-block;
+}
+#monitor{
+    background-image: url(../img/monitor.jpg);
+}
+#graph{
+    background-image: url(../img/graph.jpg);
+}
