@@ -14,12 +14,11 @@ body{
 }
 
 header{
-    padding: 20px;
     text-align: center;
 }
 
 #logo{
-    height: 100px;
+    height: 150px;
 }
 
 #titolo{
