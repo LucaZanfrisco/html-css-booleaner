@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+/* immagine e colore di background header */
+header{
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+}
+/* Fine immagine e colore di background header */
+
+/* Dimensioni logo */
+#logo{
+    width: 400px;
+    height: 200px;
+}
+/* Fine dimensione logo */
