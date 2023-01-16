@@ -40,3 +40,26 @@ span{
     margin-top: 30px;
 }
 /* Fine margini foto tim */
+
+/* Rimozione margini tabella */
+table{
+    border-collapse: collapse;
+}
+/* fine rimozione margini tabella */
+
+
+thead{
+    background-color: #20a9e5;
+}
+
+/* lunghezza caselle tabella  */
+.table-len{
+    width: 400px;
+}
+/* fine lunghezza caselle tabella */
+
+/* colore sfondo delle caselle dispari */
+.table-even{
+    background-color: #b1e5f2;
+}
+/* fine colore sfondo delle caselle dispari */
