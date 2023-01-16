@@ -13,5 +13,30 @@ header{
 #logo{
     width: 400px;
     height: 200px;
+    padding: 10px;
 }
 /* Fine dimensione logo */
+
+
+article{
+    margin: 8px;
+}
+
+/* Font e margini titolo */
+#titolo{
+    font-size: 60px;
+    margin-bottom: 0;
+}
+/* Fine font e margini titolo */
+
+/* colore testo sottotitolo */
+span{
+    color: #2cade6;
+}
+/* Fine colore testo sottotitolo */
+
+/* margini foto tim */
+.tim{
+    margin-top: 30px;
+}
+/* Fine margini foto tim */
